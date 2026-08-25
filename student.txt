@@ -1,0 +1,5 @@
+name:brijesh tamoskar
+roll no:25P0051006
+class:msci ds FY
+subject:basic tollkit for research
+collage:goa university
