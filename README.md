@@ -1,17 +1,19 @@
-Git Practical Assignment
+# Git Practical Assignment
 
-Project title: Assignment 1
-Name: Brijesh Tamoskar
-**Roll no. 06
-Class: MScI DS SY
-Github username: birju1004
-Purpose of the repository: Assignment Submission
+**Project Title:** Assignment 1
+**Name:** Brijesh Tamoskar
+**Roll No.:** 06
+**Class:** MScI DS SY
+**GitHub Username:** birju1004
+**Purpose of the Repository:** Assignment Submission
 
-Purpose
+## Purpose
 
-to learn basics of git and github
+To learn the basics of Git and GitHub.
 
-git commands
+## Git Commands
+
+```bash
 git --version
 git config
 git init
@@ -26,4 +28,4 @@ git log
 git push
 git clone
 git log --oneline
-sania
+```
